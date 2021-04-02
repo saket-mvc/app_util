@@ -2,6 +2,7 @@
 define('WP_AUTO_UPDATE_CORE', 'minor');// This setting is required to make sure that WordPress updates can be properly managed in WordPress Toolkit. Remove this line if this WordPress website is not managed by WordPress Toolkit anymore.
 /**
  * The base configuration for WordPress
+ * sample commit *
  *
  * The wp-config.php creation script uses this file during the
  * installation. You don't have to use the web site, you can
