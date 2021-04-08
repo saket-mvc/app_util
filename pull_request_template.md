@@ -12,7 +12,12 @@ Please delete options that are not relevant.
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
+## What changed
+
+Details on the components/endpoints that got changed
+
 ## Why this change was needed
+
 Short Description of the implementation or fix
 
 ## How Has This Been Tested?
